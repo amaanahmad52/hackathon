@@ -1,0 +1,15 @@
+[33mcommit f4d5043c251866266d81da46781d8bec1997428b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jyot Pratap Singh <jp21chb0a20@student.nitw.ac.in>
+Date:   Sat Feb 11 23:29:17 2023 +0530
+
+     Untracked files:
+            node_modules/
+            package-lock.json
+            package.json
+            views/
+
+[33mcommit c4e2e2df3d4ba67d64e9d91197c182c5008bb38f[m
+Author: Jyot Pratap Singh <jp21chb0a20@student.nitw.ac.in>
+Date:   Sat Feb 11 23:26:31 2023 +0530
+
+    committed
